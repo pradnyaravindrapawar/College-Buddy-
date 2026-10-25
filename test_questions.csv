@@ -1,0 +1,48 @@
+id,query,expected_id,category,query_type
+1,What are the eligibility requirements for engineering admission?,1,Admissions,paraphrase
+2,What is the minimum 12th percentage needed for BTech?,1,Admissions,paraphrase
+3,Do I need JEE Main score to join B.Tech?,1,Admissions,paraphrase
+4,Where can I submit the college application form online?,2,Admissions,paraphrase
+5,What is the registration fee for applying to college?,2,Admissions,paraphrase
+6,What is the final cutoff date to submit admission applications?,3,Admissions,paraphrase
+7,Can I submit my admission form after June 30 with late fee?,3,Admissions,paraphrase
+8,How much is the annual tuition fee for BTech engineering?,4,Fees,exact
+9,What are the caution deposit and development charges for B.Tech?,4,Fees,paraphrase
+10,Can I pay my college tuition fees in installments?,5,Fees,exact
+11,Is it possible to split the fee semester-wise?,5,Fees,paraphrase
+12,What is the refund amount if I withdraw my admission before classes?,6,Fees,paraphrase
+13,Can I get fee refund if I cancel admission after 2 weeks?,6,Fees,paraphrase
+14,Does the college give scholarships for top entrance rankers?,7,Scholarships,paraphrase
+15,Are there any fee waivers for low family income students?,7,Scholarships,paraphrase
+16,What are the hostel room rent charges for AC and non-AC?,8,Hostel,paraphrase
+17,Is dorm accommodation available for boys and girls?,8,Hostel,synonym
+18,What is the hostel curfew time at night?,9,Hostel,paraphrase
+19,Can hostel students stay outside campus overnight?,9,Hostel,paraphrase
+20,How is the food in the hostel mess?,10,Hostel,paraphrase
+21,Does the college mess serve non vegetarian food?,10,Hostel,paraphrase
+22,What is the grading system and how is CGPA calculated?,11,Exams,exact
+23,What is the minimum grade point to pass a course?,11,Exams,paraphrase
+24,Is 75 percent attendance compulsory to write semester exams?,12,Exams,paraphrase
+25,Can I get attendance relaxation on medical grounds?,12,Exams,paraphrase
+26,When are supplementary exams held for backlog subjects?,13,Exams,paraphrase
+27,What is the examination fee per subject for clearing arrears?,13,Exams,synonym
+28,What was the highest salary package offered during campus placements?,14,Placements,paraphrase
+29,What is the average placement CTC for engineering students?,14,Placements,synonym
+30,Which top tech companies visit for campus recruitment?,15,Placements,paraphrase
+31,Are summer internships provided to 3rd year students?,15,Placements,paraphrase
+32,Can students with active backlogs attend placement interviews?,16,Placements,paraphrase
+33,What is the minimum CGPA required to sit for campus placement drives?,16,Placements,paraphrase
+34,What time does the college library open and close?,17,Facilities,paraphrase
+35,How many books can undergraduate students borrow from library?,17,Facilities,paraphrase
+36,Does the campus have a gym and cricket ground?,18,Facilities,paraphrase
+37,What indoor sports facilities are available on campus?,18,Facilities,paraphrase
+38,Is there a resident doctor or clinic on campus for emergencies?,19,Facilities,paraphrase
+39,Does the university provide free medicine and ambulance?,19,Facilities,paraphrase
+40,What is the internet and wifi speed in hostel rooms?,20,Facilities,paraphrase
+41,How many computer workstations are in programming labs?,20,Facilities,paraphrase
+42,What is the recipe for baking chocolate brownies?,0,None,out_of_scope
+43,Who won the FIFA World Cup in Qatar?,0,None,out_of_scope
+44,Can I bring my pet python into the university classroom?,0,None,out_of_scope
+45,How do I repair a flat tire on a mountain bike?,0,None,out_of_scope
+46,What is the flight distance between New York and Tokyo?,0,None,out_of_scope
+47,Where can I buy tickets for the upcoming rock concert?,0,None,out_of_scope
